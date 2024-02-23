@@ -1,6 +1,6 @@
-# awesome-llm-zh-
+# 萤石大语言模型社区资源整合
 
-## **GPT科普**
+## **GPT  LLM 科普**
 
 > GPT 是什么，可以做什么
 
@@ -48,20 +48,20 @@
 
 > 选择适合自己的付费方式
 
-| **常用付费渠道**                                                                                                                       |  | **优点**                                                     |  | **缺点**                                                    | **使用攻略**                                                                                                                                                                                                                                                                                                                                                                           |  |
-| -------------------------------------------------------------------------------------------------------------------------------------- | - | ------------------------------------------------------------ | - | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| 使用国外虚拟信用卡（[点此了解](https://baike.baidu.com/item/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/7944696?fr=ge_ala)）【推荐】 |  | **方便充值，操作简单，**一般都支持支付宝微信等支付方式   |  | 费用较高（开卡费 + 手续费）                                 | 输入信用卡信息直接付款[虚拟信用卡开通 ChatGPT Plus 会员指南](https://davr7la9tdq.feishu.cn/docx/NrdjdWQoMoEoWaxq7K5cJGxgn6g#HL55dpLrnogaOgx1OtlcykG2n0b)                                                                                                                                                                                                                               |  |
-| 外区（美）Apple Store 直接订阅                                                                                                         |  | **费用低**，只需要支付一部分手续费或者税费，一般不超过 20 元 |  | 新建账号容易出现风险控制导致账号冻结，出现后可联系 IOS 官方 | 购买礼品卡进行充值后 App 内直接使用账号余额付款 [ChatGPT APP Plus 升级全记录：购买礼品卡、兑换和处理失败](https://zhuanlan.zhihu.com/p/631923304)外区账号注册：[ChatGPT Plus 最新开通攻略:美区 App Store 方案(20230529 更新) ](https://juejin.cn/post/7238423148555812925)[【2023 年最新】5 分钟免费注册一个属于自己美区 AppleID，安全又稳定！](https://zhuanlan.zhihu.com/p/635054054) |  |
-| 某宝/鱼代付或购买会员账号                                                                                                              |  | **最省心**，操作简单                                         |  | 贵，需要将账号密码暂时交给他人，容易暴露账号隐私            | 软件内直接搜索关键字“4.0”“4.0 会员”出现 3.5/4.0/key 开通等字眼均为代付                                                                                                                                                                                                                                                                                                             |  |
-| 账号拼车                                                                                                                               |  | **最便宜**，操作简单                                         |  | 需注意交易安全                                              | 使用频率不高但又需要会员功能时与他人拼车共享同一个账号是最佳选择点击下方链接加入萤石社区与他人拼车[【萤石大语言模型社区】](https://pd.qq.com/s/h3iiv6czi)                                                                                                                                                                                                                              |  |
+| **常用付费渠道**                                                                                                                       |  | **优点**                                                     |  | **缺点**                                                    | **使用攻略**                                                                                                                                                                                                                                                                                                                                                                          |  |
+| -------------------------------------------------------------------------------------------------------------------------------------- | - | ------------------------------------------------------------ | - | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| 使用国外虚拟信用卡（[点此了解](https://baike.baidu.com/item/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/7944696?fr=ge_ala)）【推荐】 |  | **方便充值**，操作简单**，**一般都支持支付宝微信等支付方式   |  | 费用较高（开卡费 + 手续费）                                 | 输入信用卡信息直接付款[虚拟信用卡开通 ChatGPT Plus 会员指南](https://davr7la9tdq.feishu.cn/docx/NrdjdWQoMoEoWaxq7K5cJGxgn6g#HL55dpLrnogaOgx1OtlcykG2n0b)                                                                                                                                                                                                                              |  |
+| 外区（美）Apple Store 直接订阅                                                                                                         |  | **费用低**，只需要支付一部分手续费或者税费，一般不超过 20 元 |  | 新建账号容易出现风险控制导致账号冻结，出现后可联系 IOS 官方 | 购买礼品卡进行充值后 App 内直接使用账号余额付款 [ChatGPT APP Plus 升级全记录：购买礼品卡、兑换和处理失败](https://zhuanlan.zhihu.com/p/631923304)外区账号注册：[ChatGPT Plus 最新开通攻略:美区 App Store 方案(20230529 更新)](https://juejin.cn/post/7238423148555812925)[【2023 年最新】5 分钟免费注册一个属于自己美区 AppleID，安全又稳定！](https://zhuanlan.zhihu.com/p/635054054) |  |
+| 某宝/鱼代付或购买会员账号                                                                                                              |  | **最省心**，操作简单                                         |  | 贵，需要将账号密码暂时交给他人，容易暴露账号隐私            | 软件内直接搜索关键字 “4.0” “4.0 会员”出现 3.5/4.0/key 开通等字眼均为代付                                                                                                                                                                                                                                                                                                          |  |
+| 账号拼车                                                                                                                               |  | **最便宜**，操作简单                                         |  | 需注意交易安全                                              | 使用频率不高但又需要会员功能时，与他人拼车共享同一个账号是最佳选择点击下方链接加入萤石社区与他人拼车[【萤石大语言模型社区】](https://pd.qq.com/s/h3iiv6czi)                                                                                                                                                                                                                           |  |
 
 #### 国外虚拟信用卡商家列表
 
 > 此推荐**无任何商业推广**
 
-| 虚拟信用卡商家                     | 资费详情                                                                                                                                                                                                                                       |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [FOMEpay](https://www.fomepay.com) | 开卡费 **10 美元**（**必交且只需一次**），手续费 1-2 美元。支持支付宝、微信推荐 **5347 开头的卡**，不同的卡费用相对会有一些改动，详情请见官网受 GPT 官方影响，改动较为频繁，**开卡前请先咨询客服**该卡否依旧可以用来开通 ChatGPT（包括操作问题） |
+| 虚拟信用卡商家                     | 资费详情                                                                                                                                                                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [FOMEpay](https://www.fomepay.com) | 开卡费 **10 美元**（**必交且只需一次**），手续费 1-2 美元。支持支付宝、微信推荐 **5347 开头的卡**，不同的卡费用相对会有一些改动，详情请见官网。受 GPT 官方影响，改动较为频繁，**开卡前请先咨询客服**该卡否依旧可以用来开通 ChatGPT（包括操作问题） |
 
 #### 检验是否开通成功
 
@@ -81,8 +81,8 @@
 | [understand-prompt](https://github.com/prompt-engineering/understand-prompt)                                            | 需**科学访问**                                  | 通过编程、绘画、写作的 探索与分析来理解怎么写好 prompt                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | [提示词（pormpt）工程指南](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN)                                  | 需**科学访问**                                  | 从基础概念到高级应用的综合性 pormpt 攻略                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | [ChatGPT Prompt 系统学习](https://learningprompt.wiki/docs/chatgpt-learning-path)                                       | 国内直连                                        | 像翻书一样看完本页 点击“下一步”就可以学会写 pormpt 网站右上角可切换文档**语言为为 中文** ，但教程所有案例以及 prompt 都以英文撰写，无法更改                                                                                                                                                                                                                                                                                                                                                                                    |
-| [学习如何提示：Learn Prompting](https://learnprompting.org/zh-Hans/)                                                    | 网站可直连，内置 YouTube 视频，**建议科学访问** | 像翻书一样看完本页 点击“下一步”就可以学会写 pormpt 网站首页点击 “Start Learning” 后可在后续页面右上角**切换为中文****部分内容没有翻译**                                                                                                                                                                                                                                                                                                                                                                                      |
-| [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)                                                                             | 需科学访问                                      | 介绍一系列的 Prompt 编写模式，以更好地应用 Prompt 对 AI 进行编程                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [学习如何提示：Learn Prompting](https://learnprompting.org/zh-Hans/)                                                    | 网站可直连，内置 YouTube 视频，**建议科学访问** | 像翻书一样看完本页 点击“下一步”就可以学会写 pormpt 网站首页点击 “Start Learning” 后可在后续页面右上角**切换为中文**。部分内容**没有翻译**                                                                                                                                                                                                                                                                                                                                                                                    |
+| [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns)                        | 需科学访问                                      | 介绍一系列的 Prompt 编写模式，以更好地应用 Prompt 对 AI 进行编程                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ## prompt 合集
 
@@ -95,7 +95,7 @@
 | [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)                       | 需**科学访问** | 提供大量 prompt，例如充当产品经理、导游、脱口秀演员等完成具体任务文章内部含基于 GPT3.5/4.0 的个人 AI 应用 **制造喵**[https://chat.aimakex.com](https://chat.aimakex.com/) |
 | [ChatGPT 调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN) | 需**科学访问** | 同上，并提供了一个 ChatGPT 桌面应用可供下载使用                                                                                                                           |
 
-## **ChatGPT**** 回答限制问题**
+## ChatGPT 回答限制问题
 
 > 通过一些 Prompt 技巧，诱导 chatGPT 回答一些被限制或禁止回答的问题，也被叫做“越狱”。**慎用！有封号风险**，部分指令对 GPT-4 可能无效，可能随着 OpenAI 对模型的改进失效。
 
@@ -117,7 +117,7 @@
 | 【视频】[GPTs 进阶教程丨 GPTs action](https://www.bilibili.com/video/BV1Hj411a7Eo/)                                           | 国内直连       | 自定义 GPT 创建过程中 Add actions 选项的使用                                                                                                                 |
 | 【视频】[GPTs 入门，手把手教你定制属于自己的 ChatGPT 应用](https://www.bilibili.com/video/BV1Bz4y1P7vo)                       | 国内直连       | GPTs 中文入门教程                                                                                                                                            |
 
-## 基于 **ChatGPT****制作的应用**
+## 基于 ChatGPT **制作的应用**
 
 > 大部分为国外应用，使用时建议**科学访问**
 
@@ -181,7 +181,7 @@
 
 | Chrome 插件                                                                                                                                     | 是否免费                                | 使用方式              | 使用攻略                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [在任何页面上以弹出窗口的形式访问 ChatGPT](https://chromewebstore.google.com/detail/chatgpt-for-chrome-youtub/cdjifpfganmhoojfclednjdnnpooaojb) | 插件本身免费但 **GPT部分为收费**项目 | Chrome 商店下载后使用 | 插件作者 GitHub 使用介绍：[https://github.com/kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension)                         |
+| [在任何页面上以弹出窗口的形式访问 ChatGPT](https://chromewebstore.google.com/detail/chatgpt-for-chrome-youtub/cdjifpfganmhoojfclednjdnnpooaojb) | 插件本身免费但 **GPT****部分为收费**项目 | Chrome 商店下载后使用 | 插件作者 GitHub 使用介绍：[https://github.com/kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension)                         |
 | [在 Google 搜索结果旁边显示 ChatGPT 响应](https://chromewebstore.google.com/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)         |                                         |                       | 插件作者 GitHub 使用介绍：[https://github.com/wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)                   |
 | [ChatGPT 对话保存为 PNG, PDF 或 可分享的链接](https://github.com/liady/ChatGPT-pdf/releases)                                                    |                                         |                       | 插件作者 GitHub 使用介绍：[https://github.com/liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf)                                             |
 | [将 chatGPT 嵌入作为语音助手](https://chromewebstore.google.com/detail/chassistantgpt/kepjfakbnekbifkjnfhmoilbbnncnfjc)                         |                                         |                       | 插件作者 GitHub 使用介绍：[https://github.com/liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf)                                             |
@@ -190,13 +190,13 @@
 | [7 款 ChatGPT Chrome 浏览器插件推荐](https://juejin.cn/post/7215506439259045945)                                                                |                                         |                       |                                                                                                                                                |
 | [文章阅读划词解释](https://www.chatgpt-sidebar.com)                                                                                             | 部分免费（每天 30 次 3.5 额度）         |                       | [插件官方使用介绍](https://chromewebstore.google.com/detail/sider-chatgpt%E4%BE%A7%E8%BE%B9%E6%A0%8F+-vision/difoiogjjojoaoomphldepapgpbgkhkb) |
 
-| 其他平台插件                                                            | 是否收费                                | 使用方式                  | 使用攻略                                                                                                                                                               |
-| ----------------------------------------------------------------------- | --------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [RayCast 插件-非官方](https://github.com/abielzulio/chatgpt-raycast)    | 插件本身免费但 **GPT****部分为收费**项目 | 部署配置后使用            | 插件作者 GitHub 使用介绍：[https://github.com/abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast)                                                   |
-| [VSCode 插件](https://github.com/mpociot/chatgpt-vscode)                |                                         | 软件内下载使用            | 插件作者 GitHub 使用介绍：[https://github.com/mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)                                                           |
-| [VSCode ChatGPT 中文版插件](https://juejin.cn/post/7175770569739075641) |                                         | 软件内下载使用            | 插件作者掘金使用介绍：[https://juejin.cn/post/7175770569739075641](https://juejin.cn/post/7175770569739075641)                                                             |
-| [ChatGPT 出现在菜单栏中](https://github.com/vincelwt/chatgpt-mac)       |                                         | 限定 Mac 平台，下载后使用 | 插件作者 GitHub 使用介绍：[https://github.com/vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)                                                               |
-| [Jetbrains IDEs 插件](https://github.com/LiLittleCat/intellij-chatgpt)  |                                         | IDE 内下载使用            | 插件作者 GitHub 使用介绍：[https://github.com/LiLittleCat/intellij-chatgpt/blob/main/README_CN.md](https://github.com/LiLittleCat/intellij-chatgpt/blob/main/README_CN.md) |
+| 其他平台插件                                                            | 是否收费                              | 使用方式                  | 使用攻略                                                                                                                                                               |
+| ----------------------------------------------------------------------- | ------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [RayCast 插件-非官方](https://github.com/abielzulio/chatgpt-raycast)    | **插件本身免费**但 GPT 部分为收费项目 | 部署配置后使用            | 插件作者 GitHub 使用介绍：[https://github.com/abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast)                                                   |
+| [VSCode 插件](https://github.com/mpociot/chatgpt-vscode)                |                                       | 软件内下载使用            | 插件作者 GitHub 使用介绍：[https://github.com/mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)                                                           |
+| [VSCode ChatGPT 中文版插件](https://juejin.cn/post/7175770569739075641) |                                       | 软件内下载使用            | 插件作者掘金使用介绍：[https://juejin.cn/post/7175770569739075641](https://juejin.cn/post/7175770569739075641)                                                             |
+| [ChatGPT 出现在菜单栏中](https://github.com/vincelwt/chatgpt-mac)       |                                       | 限定 Mac 平台，下载后使用 | 插件作者 GitHub 使用介绍：[https://github.com/vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)                                                               |
+| [Jetbrains IDEs 插件](https://github.com/LiLittleCat/intellij-chatgpt)  |                                       | IDE 内下载使用            | 插件作者 GitHub 使用介绍：[https://github.com/LiLittleCat/intellij-chatgpt/blob/main/README_CN.md](https://github.com/LiLittleCat/intellij-chatgpt/blob/main/README_CN.md) |
 
 ## 其他 AI 工具
 
@@ -245,9 +245,9 @@
 | [https://github.com/xx025/carrot](https://github.com/xx025/carrot)                                         | 部分免费 |                |
 | [poe.com](https://poe.com/universal_link_page?handle=ChatGPT)                                              | 部分免费 |                |
 
-## **ChatGPT**** 开发**
+## ChatGPT 开发
 
-##### 开发攻略
+### 开发攻略
 
 | 资源名称                                                                                                                            | 是否直连                           | 资源简介                                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -259,13 +259,13 @@
 | [ChatGPT 注册保姆级教程及接入飞书详细步骤 ](https://juejin.cn/post/7201132695623073847?searchId=20231121104243995E9114CCBF33688052) | 国内直连                           | ChatGPT 接入飞书教程                                                                                                                                                                      |
 | [使用 [OpenAI API] 完成常见任务示例代码](https://github.com/yunwei37/openai-cookbook-zh-cn)                                         | 需**科学访问**                     | 分享使用 [OpenAI API] 完成常见任务的示例代码                                                                                                                                              |
 
-##### ** ****API****申请攻略**
+### API 申请攻略
 
 - [ChatGPT API Key 申请使用及充值教程](https://juejin.cn/post/7206249233115643959?searchId=20231121104243995E9114CCBF33688052)
 - [玩转 chat-gpt - ChatGPT API-Key 的申请与设置](https://juejin.cn/post/7299393132692733961?searchId=20231121104243995E9114CCBF33688052)
 - [申请调用 ChatGPT API 以及 key 秘钥获取方法](https://zhuanlan.zhihu.com/p/651877443)
 
-##### **Github****热门项目****（10k+）**
+### Github 热门项目（10k+）
 
 | 项目名称                                                           | star  | 项目简介                                                                |
 | ------------------------------------------------------------------ | ----- | ----------------------------------------------------------------------- |
@@ -274,8 +274,9 @@
 | <u>chatgpt-on-wechat</u>                                           | 18.1K | 使用 ChatGPT 搭建微信聊天机器人                                         |
 | [微信接入 ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) | 12.8K | 使用 ChatGPT 搭建微信聊天机器人                                         |
 | <u>chatgpt-mirai-qq-bot</u>                                        | 10.4K | 一键部署！真正的 AI 聊天机器人！支持 QQ、Telegram、Discord、微信 等平台 |
+|                                                                    |       |                                                                         |
 
-## **ChatGPT****开发辅助客户端**
+## ChatGPT 开发辅助客户端
 
 > 以下资源需科学访问
 
