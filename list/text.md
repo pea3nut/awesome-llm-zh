@@ -1,17 +1,16 @@
 ![img](https://davr7la9tdq.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGJmODQ2YmE3MjM5MzQ4ZjUzZmRhN2NmZjlhMzZhNzJfemxCRVUyQXI4N2lnTlA3YjljclVibXB4aU85UDRURVFfVG9rZW46VGJ0ZWJFa05hb0drUXZ4YU8wYWNlaGUwbmhjXzE3MDk4MjIwMDg6MTcwOTgyNTYwOF9WNA)
 
-## 一周热门 LLM 项目推荐
+<h1 align="center">一周热门 LLM 项目推荐</h1>
 
-#### 2024年3月第2周
+<h4 align="center">2024年3月第2周</h4>
 
 
-
-|                         项目名称                          | 项目介绍                                                     |
-| :-------------------------------------------------------: | :----------------------------------------------------------- |
+|                         项目名称                          | 项目介绍	                                                     |
+| :-------------------------------------------------------: | :-----------------------------------------------------------: |
 | [Bisheng](https://github.com/dataelement/bisheng)（毕昇） | 为用户提供了一种简单直观的方式来快速搭建基于大模型的智能应用。通过预置的应用模板和数百种开发组件，Bisheng 支持灵活的应用开发，涵盖了分析报告生成、知识库问答、对话交互、要素提取等多种用途。支持企业级的应用，包括高并发处理、应用运营优化、非结构化数据治理等。 |
 
 
-## 资源目录
+<h1 align="center">资源目录</h1>
 
 
 |                           资源分类                           |                        介绍                         |
