@@ -1,4 +1,4 @@
-![img](https://davr7la9tdq.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGJmODQ2YmE3MjM5MzQ4ZjUzZmRhN2NmZjlhMzZhNzJfemxCRVUyQXI4N2lnTlA3YjljclVibXB4aU85UDRURVFfVG9rZW46VGJ0ZWJFa05hb0drUXZ4YU8wYWNlaGUwbmhjXzE3MDk4MjIwMDg6MTcwOTgyNTYwOF9WNA)
+![img](img/萤石社区.jpg)
 
 <h1 align="center">一周热门 LLM 项目推荐</h1>
 
