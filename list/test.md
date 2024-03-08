@@ -5,17 +5,19 @@
 <h4 align="center">2024年3月第2周</h4>
 
 
-|                         项目名称                          | 项目介绍	                                                     |
-| :-------------------------------------------------------: | :-----------------------------------------------------------: |
-| [Bisheng](https://github.com/dataelement/bisheng)（毕昇） | 为用户提供了一种简单直观的方式来快速搭建基于大模型的智能应用。通过预置的应用模板和数百种开发组件，Bisheng 支持灵活的应用开发，涵盖了分析报告生成、知识库问答、对话交互、要素提取等多种用途。支持企业级的应用，包括高并发处理、应用运营优化、非结构化数据治理等。 |
+|                         项目名称                          |                           项目介绍                           |
+| :-------------------------------------------------------: | :----------------------------------------------------------: |
+| [Bisheng](https://github.com/dataelement/bisheng)（毕昇） | 为用户提供了一种简单直观的方式来快速搭建基于大模型的智能应用。                                                   <br />通过预置的应用模板和数百种开发组件，Bisheng 支持灵活的应用开发，涵盖了分析报告生成、知识库问答、对话交互、要素提取等多种用途。                                                                                                                 <br />支持企业级的应用，包括高并发处理、应用运营优化、非结构化数据治理等。 |
 
 
 <h1 align="center">资源目录</h1>
 
 
+
+
 |                           资源分类                           |                        介绍                         |
 | :----------------------------------------------------------: | :-------------------------------------------------: |
-| [Prompt](https://github.com/pea3nut/awesome-llm-zh/blob/master/list/Prompt.md) |           包括 Prompt 攻略 与 Prompt 合集           |
+| [Prompt](https://github.com/pea3nut/awesome-llm-zh/blob/master/list/Prompt.md) |           包括 Prompt 攻略 与 Prompt 合集         |
 | [AI工具](https://github.com/pea3nut/awesome-llm-zh/blob/master/list/AITools.md) | 包括 写作、数据处理、视频、音频、开发辅助等 AI 工具 |
 | [开发相关](https://github.com/pea3nut/awesome-llm-zh/blob/master/list/Develop.md) | 包括 ChatGPT 与其他类型 LLM 开发攻略，以视频为主。  |
 | [gitHub LLM 项目（10K+）](https://github.com/pea3nut/awesome-llm-zh/blob/master/list/GitHubpopularprojects(10K%2B).md) |              GitHub 10K+ LLM 项目汇总               |
